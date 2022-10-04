@@ -12,6 +12,8 @@ Or clone/copy contents of `reboot-to-bios.bat` into a file with a `.bat` file ex
 
 # Usage (Most Linux OS's):
 
+One liner to download and execute (privledged shell):
+
 `wget https://raw.github.com/JakeTurner616/reboot-to-bios/main/reboot-to-bios.sh -O - | bash`
 
 Or clone/copy contents of `reboot-to-bios.sh` into a file with a `.sh` file extension, then run it as a privledged user.
