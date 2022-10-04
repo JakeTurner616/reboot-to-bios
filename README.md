@@ -27,9 +27,9 @@ Might not work for certian motherboards with fast-boot / ultra-fast-boot on Wind
 Might not work with some configurations of Windows fast-startup.
 
 
-Uses systemctl on Linux - Requires systemd as init system.
+Uses systemctl only on Linux as of now - Requires systemd as init system.
 
-### Future ideas
+# Future ideas:
 
 - Update Linux version to detect the active init system being used as to support more distros.
 
