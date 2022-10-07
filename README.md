@@ -1,6 +1,6 @@
 # reboot-to-uefi
 
-A simple batch and bash file to act as a clone of ASROCK reboot to uefi, but for non ASROCK motherboards. 
+A simple batch / bash script to act as a clone of ASROCK reboot to uefi, but for non ASROCK motherboards. 
 
 # Usage (Windows):
 
